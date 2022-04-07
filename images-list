@@ -4,3 +4,4 @@
 #
 # LIST FORMAT: <SOURCE> <DESTINATION> <TAG>
 k8s.gcr.io/external-dns/external-dns cnrancher/external-dns v0.7.6
+jimmidyson/configmap-reload cnrancher/jimmidyson-configmap-reload v0.7.1
