@@ -15,7 +15,9 @@ calico/node cnrancher/mirrored-calico-node v3.22.5
 calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.17.6
 calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.22.4
 calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.22.5
+fluent/fluent-bit cnrancher/mirrored-fluent-fluent-bit 1.8.13
 ghcr.io/k8snetworkplumbingwg/multus-cni cnrancher/mirrored-multus-cni v3.7.1
 ghcr.io/k8snetworkplumbingwg/multus-cni cnrancher/mirrored-multus-cni v3.9.2
 jimmidyson/configmap-reload cnrancher/jimmidyson-configmap-reload v0.7.1
+mysql cnrancher/mirrored-mysql 8.0.31
 nfvpe/multus cnrancher/mirrored-nfvpe-multus v3.4.2
