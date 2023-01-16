@@ -28,3 +28,4 @@ quay.io/jetstack/cert-manager-controller cnrancher/mirrored-jetstack-cert-manage
 quay.io/jetstack/cert-manager-ctl cnrancher/mirrored-jetstack-cert-manager-ctl v1.10.1
 quay.io/jetstack/cert-manager-webhook cnrancher/mirrored-jetstack-cert-manager-webhook v1.10.1
 quay.io/thanos/thanos cnrancher/mirrored-thanos-thanos v0.27.0
+quay.io/thanos/thanos cnrancher/mirrored-thanos-thanos v0.30.1
