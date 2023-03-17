@@ -17,6 +17,7 @@ calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.17.6
 calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.22.4
 calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.22.5
 fluent/fluent-bit cnrancher/mirrored-fluent-fluent-bit 1.8.13
+fluent/fluent-bit cnrancher/mirrored-fluent-fluent-bit 2.0.9
 ghcr.io/k8snetworkplumbingwg/multus-cni cnrancher/mirrored-multus-cni v3.7.1
 ghcr.io/k8snetworkplumbingwg/multus-cni cnrancher/mirrored-multus-cni v3.9.2
 ghcr.io/k8snetworkplumbingwg/multus-cni cnrancher/mirrored-multus-cni v3.9.3
