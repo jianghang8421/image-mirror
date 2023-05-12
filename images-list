@@ -3,17 +3,22 @@
 # https://github.com/rancher/image-mirror/pull/27
 #
 # LIST FORMAT: <SOURCE> <DESTINATION> <TAG>
+calico/cni cnrancher/mirrored-calico-cni v3.19.2
 calico/cni cnrancher/mirrored-calico-cni v3.22.4
 calico/cni cnrancher/mirrored-calico-cni v3.22.5
 calico/ctl cnrancher/mirrored-calico-ctl v3.17.2
+calico/ctl cnrancher/mirrored-calico-ctl v3.19.2
+calico/kube-controllers cnrancher/mirrored-calico-kube-controllers v3.19.2
 calico/kube-controllers cnrancher/mirrored-calico-kube-controllers v3.22.4
 calico/kube-controllers cnrancher/mirrored-calico-kube-controllers v3.22.5
 calico/node cnrancher/mirrored-calico-node v3.17.2
 calico/node cnrancher/mirrored-calico-node v3.17.6
+calico/node cnrancher/mirrored-calico-node v3.19.2
 calico/node cnrancher/mirrored-calico-node v3.22.4
 calico/node cnrancher/mirrored-calico-node v3.22.5
 calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.17.2
 calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.17.6
+calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.19.2
 calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.22.4
 calico/pod2daemon-flexvol cnrancher/mirrored-calico-pod2daemon-flexvol v3.22.5
 fluent/fluent-bit cnrancher/mirrored-fluent-fluent-bit 1.8.13
