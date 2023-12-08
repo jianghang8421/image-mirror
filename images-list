@@ -30,6 +30,7 @@ grafana/grafana cnrancher/mirrored-grafana-grafana 9.4.3
 grafana/grafana cnrancher/mirrored-grafana-grafana 10.2.0
 jimmidyson/configmap-reload cnrancher/jimmidyson-configmap-reload v0.7.1
 mysql cnrancher/mirrored-mysql 8.0.31
+mysql cnrancher/mirrored-mysql 8.0.35
 nfvpe/multus cnrancher/mirrored-nfvpe-multus v3.4.2
 nginx cnrancher/mirrored-nginx 1.23.3
 nginx cnrancher/mirrored-nginx 1.25.3
