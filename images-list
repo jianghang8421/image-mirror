@@ -27,6 +27,7 @@ ghcr.io/k8snetworkplumbingwg/multus-cni cnrancher/mirrored-multus-cni v3.7.1
 ghcr.io/k8snetworkplumbingwg/multus-cni cnrancher/mirrored-multus-cni v3.9.2
 ghcr.io/k8snetworkplumbingwg/multus-cni cnrancher/mirrored-multus-cni v3.9.3
 grafana/grafana cnrancher/mirrored-grafana-grafana 9.4.3
+grafana/grafana cnrancher/mirrored-grafana-grafana 10.1.5
 grafana/grafana cnrancher/mirrored-grafana-grafana 10.2.0
 jimmidyson/configmap-reload cnrancher/jimmidyson-configmap-reload v0.7.1
 mysql cnrancher/mirrored-mysql 8.0.31
