@@ -30,7 +30,9 @@ ghcr.io/k8snetworkplumbingwg/multus-cni cnrancher/mirrored-multus-cni v3.9.3
 grafana/grafana cnrancher/mirrored-grafana-grafana 9.4.3
 grafana/grafana cnrancher/mirrored-grafana-grafana 10.1.5
 grafana/grafana cnrancher/mirrored-grafana-grafana 10.2.0
+jettech/kube-webhook-certgen cnrancher/mirrored-jettech-kube-webhook-certgen v1.5.2
 jimmidyson/configmap-reload cnrancher/jimmidyson-configmap-reload v0.7.1
+liangjw/kube-webhook-certgen cnrancher/mirrored-liangjw-kube-webhook-certgen v1.1.1
 mysql cnrancher/mirrored-mysql 8.0.31
 mysql cnrancher/mirrored-mysql 8.0.35
 nfvpe/multus cnrancher/mirrored-nfvpe-multus v3.4.2
@@ -39,6 +41,7 @@ nginx cnrancher/mirrored-nginx 1.25.3
 nvcr.io/nvidia/gpu-feature-discovery cnrancher/mirrored-nvidia-gpu-feature-discovery v0.7.0
 nvcr.io/nvidia/k8s-device-plugin cnrancher/mirrored-nvidia-k8s-device-plugin v0.13.0
 nvcr.io/nvidia/k8s/dcgm-exporter cnrancher/mirrored-nvidia-dcgm-exporter 3.1.6-3.1.3-ubuntu20.04
+projecthami/hami cnrancher/mirrored-projecthami-hami v2.4.1
 prom/blackbox-exporter cnrancher/mirrored-prom-blackbox-exporter v0.24.0
 quay.io/jetstack/cert-manager-cainjector cnrancher/mirrored-jetstack-cert-manager-cainjector v1.10.1
 quay.io/jetstack/cert-manager-cainjector cnrancher/mirrored-jetstack-cert-manager-cainjector v1.10.2
@@ -63,4 +66,8 @@ quay.io/jetstack/cert-manager-webhook cnrancher/mirrored-jetstack-cert-manager-w
 quay.io/thanos/thanos cnrancher/mirrored-thanos-thanos v0.27.0
 quay.io/thanos/thanos cnrancher/mirrored-thanos-thanos v0.30.1
 quay.io/thanos/thanos cnrancher/mirrored-thanos-thanos v0.32.5
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.25.16
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.26.15
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.27.16
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.28.15
 registry.k8s.io/nfd/node-feature-discovery cnrancher/mirrored-nfd-node-feature-discovery v0.12.1
