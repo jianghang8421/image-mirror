@@ -43,6 +43,7 @@ nvcr.io/nvidia/k8s-device-plugin cnrancher/mirrored-nvidia-k8s-device-plugin v0.
 nvcr.io/nvidia/k8s/dcgm-exporter cnrancher/mirrored-nvidia-dcgm-exporter 3.1.6-3.1.3-ubuntu20.04
 nvcr.io/nvidia/k8s/dcgm-exporter cnrancher/mirrored-nvidia-dcgm-exporter 3.3.7-3.5.0-ubuntu22.04
 projecthami/hami cnrancher/mirrored-projecthami-hami v2.4.1
+projecthami/hami-webui-be-oss cnrancher/mirrored-projecthami-hami-webui-be-oss v1.0.3
 prom/blackbox-exporter cnrancher/mirrored-prom-blackbox-exporter v0.24.0
 quay.io/jetstack/cert-manager-cainjector cnrancher/mirrored-jetstack-cert-manager-cainjector v1.10.1
 quay.io/jetstack/cert-manager-cainjector cnrancher/mirrored-jetstack-cert-manager-cainjector v1.10.2
