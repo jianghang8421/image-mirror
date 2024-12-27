@@ -73,5 +73,8 @@ registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mir
 registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.27.16
 registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.28.15
 registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.29.11
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.29.12
 registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.30.7
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.30.8
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler cnrancher/mirrored-projecthami-kube-scheduler v1.31.4
 registry.k8s.io/nfd/node-feature-discovery cnrancher/mirrored-nfd-node-feature-discovery v0.12.1
