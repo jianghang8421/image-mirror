@@ -11,7 +11,8 @@ fi
 
 export DOCKER_CLI_EXPERIMENTAL="enabled"
 
-ARCH_LIST="amd64 arm64 arm s390x"
+# PANDARIA: remove arm s390x
+ARCH_LIST="amd64 arm64"
 
 function copy_if_changed {
   SOURCE_REF="${1}"
